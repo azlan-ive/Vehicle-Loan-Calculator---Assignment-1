@@ -27,7 +27,6 @@ Enter the vehicle price, down payment, loan period, and yearly interest rate, an
 |------------|
 | ![Vehicle Loan Calculator](screenshots/vehicle_loan_calculator.png) |
 
-> Update the image path (`screenshots/vehicle_loan_calculator.png`) to match your repo.
 
 ---
 
